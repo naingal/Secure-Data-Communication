@@ -1,4 +1,4 @@
-This networking project was completed as part of the final year requirements for the Bachelor of Science in Computer Networking at [Your University Name], under the module Network Infrastructure Design (or your actual module name). The project aimed to apply advanced networking principles to create a secure and scalable enterprise network for a simulated business scenario involving two geographically separate branch offices.
+This networking project was completed as part of the final year requirements for the Bachelor of Science in Computer Networking at University of Greenwich, under the module **Computing Project**. The project aimed to apply advanced networking principles to create a secure and scalable enterprise network for a simulated business scenario involving two geographically separate branch offices.
 
 The project proposes a 2-tier Network Architecture integrated with an IPSec site-to-site VPN to ensure robust, secure communication between the two branches. The design emphasizes security, reliability, and scalability, which are essential requirements in modern enterprise networks.
 
